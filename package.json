@@ -1,0 +1,37 @@
+{
+  "name": "@kmsoln/web-package-last",
+  "version": "1.0.0",
+  "description": "An extra library for Lodash to enhance its functionality.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode production"
+  },
+  "keywords": [
+    "lodash",
+    "lodash-extra",
+    "lodash-library",
+    "utility",
+    "javascript-utilities",
+    "helper-functions",
+    "lodash-enhancement",
+    "lodash-addon",
+    "web-package",
+    "extra-lodash"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-loader": "^9.2.1",
+    "lodash": "^4.17.21"
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/kmsoln/web-package-last.git"
+},
+  "devDependencies": {
+    "webpack": "^5.96.1",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^5.1.0"
+  }
+}
